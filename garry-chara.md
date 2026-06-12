@@ -1,4 +1,4 @@
-# Garry Strait (Chara) [any/all, pref. they/them]
+# 🍫 - [Garry Strait (Chara)](https://github.com/CharaROMAndroid/team/tree/main) [Pronouns: any/all, pref. they/them]
 
 ## Who I Am
 
