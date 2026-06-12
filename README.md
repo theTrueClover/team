@@ -10,7 +10,7 @@ Meet the people behind **CharaROM**:
 * [💻 **Bashh**](bashh.md)
 * [🔥 **JPB**](jpb896.md)
 * [🐈 **Unity Pixelheart**](unity.md)
-* [🌐 **External Contributors](extra.md)
+* [🌐 **External Contributors**](extra.md)
 
 ---
 
