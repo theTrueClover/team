@@ -1,4 +1,4 @@
-# Bahar KURT/Linda St-Denis (she/they)
+# 🌷 - [Bahar KURT/Linda St-Denis](https://github.com/kurtbahartr) [Pronouns: she/they]
 
 Hello there! Linda here! You can alternatively call me Bahar if you speak Turkish or Spring if you prefer a direct translation of my Turkish name.
 
