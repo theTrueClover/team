@@ -4,11 +4,17 @@
 
 Meet the people behind **CharaROM**:
 
-* [🔪🍫 **Garry Strait (Chara)**](https://github.com/CharaROMAndroid/team/blob/main/garry-chara.md)
-* 🐩🐈🛌 **Nora / eepymeowers** — *(coming soon)*
-* [🌷 **Bahar / Spring**](https://github.com/CharaROMAndroid/team/blob/main/bahar-linda.md)
-* 💻 **Bashh** — *(coming soon)*
-* [🔥 **JPB**](https://github.com/CharaROMAndroid/team/blob/main/jpb896.md)
+* [🍫 **Garry Strait (Chara)**](garry-chara.md)
+* [🛌 **Nora / eepymeowers**](eepymeowers.md)
+* [🌷 **Bahar / Spring**](bahar-linda.md)
+* [💻 **Bashh**](bashh.md)
+* [🔥 **JPB**](jpb896.md)
+
+---
+
+## Important note
+
+Yes, we included the preferred pronouns of our team members. Why? Because that's **respect**. Plus, it helps reduce potential miscommunication issues.
 
 ---
 
