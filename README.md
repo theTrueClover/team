@@ -9,6 +9,8 @@ Meet the people behind **CharaROM**:
 * [🌷 **Bahar / Spring**](bahar-linda.md)
 * [💻 **Bashh**](bashh.md)
 * [🔥 **JPB**](jpb896.md)
+* [🐈 **Unity Pixelheart**](unity.md)
+* [🌐 **External Contributors](extra.md)
 
 ---
 
@@ -34,7 +36,7 @@ Think of it as a mix between:
 
 ## What You’ll Find Here
 
-* Individual developer profiles (like [this one](https://github.com/CharaROMAndroid/team/blob/main/garry-chara.md))  
+* Individual developer profiles (like [this one](garry-chara.md))  
 * Personal projects and contributions  
 * Overlapping work across different parts of the ecosystem  
 * The occasional “wait, they built *that* too?” moment  
