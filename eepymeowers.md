@@ -7,6 +7,7 @@ I'm tired and don't really want to write a new bio right now so here's my Telegr
 - Name: Nora Yurichka Lovehart
 - Identities: 🏳️‍⚧️ΘΔ&⚥, finsexual grayace sapphic
 - autistic, anarchomarxist, anti-gen AI* transhumanist (more blurbs i could put here but this is not my full bio)
+
 ---
 
 ### Location: The Wired
@@ -20,6 +21,7 @@ crDroid maintainer for Sony Xperia 5 V (pdx237), OnePlus 7 (guacamoleb), and Son
 - Laptop list: To be made
 - PC list: To be made
 - Languages I can speak currently: English (native), 中文 (not well - 但是我的中文不太好)
+
 ---
 
 ### Favourites:
@@ -33,6 +35,7 @@ crDroid maintainer for Sony Xperia 5 V (pdx237), OnePlus 7 (guacamoleb), and Son
 - Colour: Lilac
 - Phone: Sony Xperia 5 V
 - OS: Debian unstable with KDE Plasma, Gentoo
+
 ---
 
 ### Main Devices:
@@ -41,6 +44,7 @@ crDroid maintainer for Sony Xperia 5 V (pdx237), OnePlus 7 (guacamoleb), and Son
 - PC: AMD Ryzen 7 7700X, 64GB DDR5, 2x 1TB NVMe Gen4 SSDs (Samsung 980 PRO with Heatsink, Crucial T500), 2x 2TB WD Red HDDs, XFX SWFT210 AMD Radeon RX 6600 8GB, MSI Pro B650-P WIFI, running Debian unstable, all housed in a white Corsair 4000D Airflow, and the rest of my PC setup is 2x Dell U2518D 1440p60 25" monitors, E-YOOSOO Z-99 mechanical keyboard, Logi M575 trackball, Logi B910 webcam, and Razer Blackshark V2 headset 
 - E-reader: Kobo Libra H₂O 8GB
 - Tablet/main drawing tablet: iPad Pro 9.7" 1st Gen 32GB + Apple Pencil 1st Gen, running latest available for it iOS
+
 ---
 
 ### Legal disclaimer: [t.me/NoneResponsibility](t.me/NoneResponsibility) ([https://telegra.ph/Disclaimer-11-25-17](https://telegra.ph/Disclaimer-11-25-17))
