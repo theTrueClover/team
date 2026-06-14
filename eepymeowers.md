@@ -5,7 +5,7 @@ I'm tired and don't really want to write a new bio right now so here's my Telegr
 ---
 ### Basic info about me:
 - Name: Nora Yurichka Lovehart
-- Identities: 🏳️‍⚧️ΘΔ&⚥, finsexual grayace sapphic
+- Identities: trans, ΘΔ&⚥⚢, finsexual grayace sapphic
 - autistic, anarchomarxist, anti-gen AI* transhumanist (more blurbs i could put here but this is not my full bio)
 
 ---
