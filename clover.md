@@ -1,4 +1,4 @@
-# 🌼 [Susie](https://github.com/theTrueClover) (pronouns: she/her)
+# 🌼 [Clover](https://github.com/theTrueClover)
 
 ## Who am I?
 
