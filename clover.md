@@ -2,7 +2,7 @@
 
 ## Who am I?
 
-I'm Susie, a transfem developer (Clover is also fine to call me by).
+I'm Clover, a developer.
 
 I'm one of the most active developers in the guam community (it's not that much because the community is kind of dead anyways), and semi-active in the tanzanite community. 
 
